@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.6f277f65.css",
-  "main.css.map": "static/css/main.6f277f65.css.map",
-  "main.js": "static/js/main.7615ce4b.js",
-  "main.js.map": "static/js/main.7615ce4b.js.map",
+  "main.css": "static/css/main.a0421e12.css",
+  "main.css.map": "static/css/main.a0421e12.css.map",
+  "main.js": "static/js/main.e7470a9c.js",
+  "main.js.map": "static/js/main.e7470a9c.js.map",
   "static/media/about.jpg": "static/media/about.b5bc1e57.jpg",
   "static/media/brands.jpg": "static/media/brands.0c400f03.jpg",
   "static/media/buy.jpg": "static/media/buy.5860fecd.jpg",
@@ -17,10 +17,12 @@
   "static/media/more-split.jpg": "static/media/more-split.5bdfd481.jpg",
   "static/media/more.jpg": "static/media/more.69b83db8.jpg",
   "static/media/passion.jpg": "static/media/passion.260da81d.jpg",
+  "static/media/privacy.jpg": "static/media/privacy.cfd9accf.jpg",
   "static/media/save.jpg": "static/media/save.16fa4e39.jpg",
   "static/media/scott-funny.jpg": "static/media/scott-funny.2d81a4c4.jpg",
   "static/media/search.jpg": "static/media/search.8a8dcde4.jpg",
   "static/media/sell.jpg": "static/media/sell.81113e51.jpg",
+  "static/media/terms.jpg": "static/media/terms.8597705e.jpg",
   "static/media/treat.jpg": "static/media/treat.784cd8ff.jpg",
   "static/media/trust.jpg": "static/media/trust.723df01b.jpg"
 }
